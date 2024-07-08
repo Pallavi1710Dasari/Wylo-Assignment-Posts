@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce1f30ef.chunk.css",
-    "main.js": "/static/js/main.c4ef14ee.chunk.js",
-    "main.js.map": "/static/js/main.c4ef14ee.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.206d734d.chunk.js": "/static/js/2.206d734d.chunk.js",
-    "static/js/2.206d734d.chunk.js.map": "/static/js/2.206d734d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.900bcbf0f98927ded071cd07fe44ddd0.js": "/precache-manifest.900bcbf0f98927ded071cd07fe44ddd0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ce1f30ef.chunk.css.map": "/static/css/main.ce1f30ef.chunk.css.map"
+    "main.css": "/Wylo-Assignment-Posts/static/css/main.ce1f30ef.chunk.css",
+    "main.js": "/Wylo-Assignment-Posts/static/js/main.c4ef14ee.chunk.js",
+    "main.js.map": "/Wylo-Assignment-Posts/static/js/main.c4ef14ee.chunk.js.map",
+    "runtime~main.js": "/Wylo-Assignment-Posts/static/js/runtime~main.d71da70a.js",
+    "runtime~main.js.map": "/Wylo-Assignment-Posts/static/js/runtime~main.d71da70a.js.map",
+    "static/js/2.206d734d.chunk.js": "/Wylo-Assignment-Posts/static/js/2.206d734d.chunk.js",
+    "static/js/2.206d734d.chunk.js.map": "/Wylo-Assignment-Posts/static/js/2.206d734d.chunk.js.map",
+    "index.html": "/Wylo-Assignment-Posts/index.html",
+    "precache-manifest.b2c95b0cdc4d0876a80d43996e4a1a93.js": "/Wylo-Assignment-Posts/precache-manifest.b2c95b0cdc4d0876a80d43996e4a1a93.js",
+    "service-worker.js": "/Wylo-Assignment-Posts/service-worker.js",
+    "static/css/main.ce1f30ef.chunk.css.map": "/Wylo-Assignment-Posts/static/css/main.ce1f30ef.chunk.css.map"
   }
 }
