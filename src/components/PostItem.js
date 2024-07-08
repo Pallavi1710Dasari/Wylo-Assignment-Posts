@@ -1,12 +1,11 @@
 import React from 'react';
-import { useDispatch } from 'react-redux';
 
 const PostItem = ({ post, onEdit }) => {
   return (
     <div className="post-item">
-      <h2>{post.title}</h2>
-      <p>{post.content}</p>
-      <button onClick={() => onEdit(post)}>Edit</button>
+      <h2 className="post-Color">{post.title}</h2>
+      <p className="post-Color">{post.content}</p>
+      <button className="button" onClick={() => onEdit(post)}>Edit</button>
     </div>
   );
 };

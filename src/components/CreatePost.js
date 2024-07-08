@@ -38,7 +38,7 @@ const CreatePost = ({ postToEdit, onSubmit }) => {
         value={content}
         onChange={(e) => setContent(e.target.value)}
       />
-      <button type="submit">{postToEdit ? 'Update Post' : 'Create Post'}</button>
+      <button className="button" type="submit">{postToEdit ? 'Update Post' : 'Create Post'}</button>
     </form>
   );
 };

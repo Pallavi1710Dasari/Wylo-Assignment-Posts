@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>WYLO Posts</h1>
+      <h1 className="heading">Add Posts</h1>
       <CreatePost postToEdit={postToEdit} onSubmit={handleSubmit} />
       <PostsDisplay onEdit={handleEdit} />
     </div>
